@@ -1,0 +1,4 @@
+Finance-Manager
+===============
+
+Java program designed to keep track of your finances. Add bank accounts, and other various items of money growth/storage. The initial idea was for this to be a hub to manage all finances. There would be a mobile app in addition to the desktop application. Once I got to this stage of development I discovered MINT, and that filled the void that I was going to use this app for. I completed work in adding a commandline interface, and a few different account types. The code is relatively clean and organized in this project as opposed to in other projects where I was learning as I went. A save/load feature is included, however only one User can have a savefile at a time. I started (very briefly) a GUI for this application, however as stated above, the discovery of mint erased the need for me to complete it. 
